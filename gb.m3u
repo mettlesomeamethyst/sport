@@ -1,0 +1,26 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",EuroSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium878/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",EuroSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",Sky Sport Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="TEST",Sky Sport Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium462/index.m3u8
