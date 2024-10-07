@@ -6,14 +6,14 @@
 https://linear301-it-dash1-prd-cf.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Tennis",Sky Sport Tennis
+https://linear310-it-dash1-prd-cf.cdn13.skycdp.com/016a/32559/FHD/skysporttennis/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
 #EXTINF:-1 tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Tennis",Sky Sport Arena
 https://linear304-it-dash1-prd-cf.cdn13.skycdp.com/016a/31024/FHD/skysportarena/master_stereo.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Tennis",Sky Sport Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://xyzdddd.videohls.ru/lb/premium576/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00032023ad4896139b22a071d6c1183c:e0c6c1454bb792b843f085be9999c9da
