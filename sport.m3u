@@ -15,6 +15,11 @@ https://linear310-it-dash1-prd-cf.cdn13.skycdp.com/016a/32559/FHD/skysporttennis
 #EXTINF:-1 tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Sport ITA",Sky Sport Arena
 https://linear304-it-dash1-prd-cf.cdn13.skycdp.com/016a/31024/FHD/skysportarena/master_stereo.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+#EXTINF:-1 tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-max-it.png" group-title="Sport ITA",Sky Sport Max
+https://linear305-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master_stereo.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-tennis-it.png" group-title="Sport ITA",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
@@ -40,32 +45,37 @@ https://linear302-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31209/FHD/skysportseri
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 1 (251)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 251 
 https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 2 (252)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 252
 https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32951/FHD/skysport252/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 3 (253)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 253
 https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32233/FHD/skysport253/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 4 (254)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 254
 https://linear312-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31234/FHD/skysport254/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 5 (255)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 255
 https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32910/FHD/skysport255/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 256
+https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31912/FHD/skysport256/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Calcio 7 (257)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport ITA",Sky Sport 257
 https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31775/FHD/skysport257/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sport ENG",TNT Sports 1
@@ -134,6 +144,11 @@ https://lb2-e1-77.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
 https://lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/go-3-sport-2-lt.png" group-title="Sport LIT",Go3 Sport 2
+https://cdn5.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/norway/tv2-sport1-hz-no.png" group-title="Sport NOR",TV2 Sport 1
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
@@ -141,7 +156,7 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/man
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="Sport Canada",TSN Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://webufffit.videohls.ru/lb/eplayerTSN_1_HD/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium111/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Sport Canada",TSN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
